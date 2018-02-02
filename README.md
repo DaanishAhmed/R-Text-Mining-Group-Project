@@ -1,0 +1,12 @@
+Text Mining Analysis on President Donald Trump's Tweets
+----------------
+
+This is a group project where I collaborated with two other UMUC graduate students: Edward Perry and Abdourahmane Bah.  The project is a text mining analysis where we analyzed the tweets sent by President (then candidate) Donald J. Trump during the 2016 presidential election.  Our method involved finding terms that frequently appear together and determining the relationships between those words.  We also used visualizations to determine the most prominent words and their significance.  Our goal was to understand the important concepts and phrases of Trump's campaign and study what made his message resonate with voters.  This project was not designed to make a political statement, but rather to understand how politicians can effectively use social media to convey their message.
+
+All of us played some role in each component of the project, including the code, analysis, and write-up.  Some of my responsibilities include handling upper and lower-case letters, removing punctuation, and removing common words such as "and," "like," and "but".  I also contributed with visualizations such as the bar plot, as well as the association mining section.  I wrote several sections of the paper and contributed with revising the report.
+
+The full report can be found in the file "Text Mining Trump Tweets.pdf".  This report shows a complete breakdown of our analysis, including problem identification, motivation, data exploration, text preparation, visualization, association mining, results, and findings.  Tables, visualizations, and a copy of our code are included in the appendices.
+
+The dataset "Donald-Trump_7375-Tweets-Excel.csv" was provided by my course instructor at the University of Maryland University College.  Data was originally obtained from Twitter.
+
+The R script is included in the file "trump tweets group project script.R".  The requirements are described in the file "requirements.txt".  Instructions on how to use the program are included as comments in the R file.  After opening the file, please read the instructions carefully before executing the code to ensure that the program functions correctly.
